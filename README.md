@@ -19,7 +19,18 @@
 - C
 - C++
 - Java  
-- Python  
+- Python
+### Competetive programming
+ Data structures and algorithms 
+- Arrays
+- Strings
+- Linked List
+- Stack & Queue
+- Trees
+- Hashing
+- Recursion
+- Dynamic Programming
+  
 
 ### 🌐 Web Technologies
 - HTML  
