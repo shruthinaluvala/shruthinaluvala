@@ -9,7 +9,7 @@
 - 💻 Passionate about **Software Development, AI & Full-Stack Development**
 - 🌱 Currently learning **DSA, System Design & Cloud Technologies**
 - 🚀 Aspiring to get placed in **Tier-1 / Product-Based Companies**
-- 📫 Reach me at: **sruthinaluvala@gmail.com**
+- 📫 Reach me at: **sruthinaluvala55@gmail.com**
 
 ---
 
