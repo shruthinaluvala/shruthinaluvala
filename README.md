@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sruthi Naluvala</h1>
+<h3 align="center">Aspiring Software Engineer | AI | Web | Cloud Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;Full-Stack+Web+Developer;AI+%26+Cloud+Enthusiast;Learns+fast.+Builds+faster." alt="Typing SVG" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;Full-Stack+Web+Developer;AI+%26+Cloud+Enthusiast;Always+learning+and+building!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -12,34 +13,17 @@
 
 ---
 
-### 🌌 Who Am I?
+### 👩‍💻 About Me
 
-✨ **Final-year B.Tech Computer Science student**
-✨ **Building full-stack web applications & AI-powered systems**
-✨ **Aspiring software engineer preparing for product-based companies**
-✨ **Learns fast. Builds faster. Ships always.**
-
-*Turning ideas into scalable tech — one commit at a time.*
-
----
-
-### 🧪 Things I Build
-
-💜 **Shoe-World Platform** (Full Stack MERN)
-→ Built an e-commerce architecture divided into independent `Shoe-World-Client` and `Shoe-World-Server` modules.
-
-💜 **AI Tic-Tac-Toe** (Internship Project)
-→ Engineered a Python AI agent for Tic-Tac-Toe during my time with Biswal Infotech Solutions.
-
-💜 **AI Resume Matcher & ATS Score Analyzer** 
-→ App that analyzes resumes against job descriptions using NLP to generate ATS score matches and suggest missing skills.
-
-💜 **Rule-Based Chatbot**
-→ Designed and implemented an automated conversational bot with rule-based responses using Python.
+- 🎓 **B.Tech Computer Science Student** passionate about solving real-world challenges.
+- 💻 Deeply interested in **Software Development, AI, & Full-Stack Development**.
+- 🌱 Currently sharpening my skills in **Data Structures & Algorithms (DSA), System Design, and Cloud Technologies**.
+- 🚀 Actively preparing for and aspiring to join **Tier-1 / Product-Based Companies**.
+- ✨ *Fun fact:* I love building tools that automate, summarize, or improve efficiency!
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Arsenal
 
 <details open>
   <summary><b>👨‍💻 Programming Languages & DSA</b></summary>
@@ -51,7 +35,7 @@
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   </p>
   <ul>
-    <li><b>Core DSA capabilities:</b> Arrays | Strings | Linked List | Stack & Queue | Trees | Hashing | Recursion | Dynamic Programming</li>
+    <li><b>DSA Core:</b> Arrays | Strings | Linked List | Stack & Queue | Trees | Hashing | Recursion | Dynamic Programming</li>
   </ul>
 </details>
 
@@ -83,46 +67,40 @@
 
 ---
 
-### 🧠 Experience Snapshot
+### 🚀 Featured Projects
 
-🧑‍💻 **Intern** — Biswal Infotech Solutions
-✔ Built functional AI logic with Python.
-✔ Designed and deployed a chatbot with rule-based responses.
-✔ Honed skills in problem-solving and clean code practices.
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧠 AI Resume Matcher & ATS Analyzer</b><br>
+      An intelligent application that analyzes user resumes against job descriptions to generate an ATS score, identify missing skills, and suggest actionable ways to improve the match rate using NLP. <br><br>
+      <i>#React #NodeJS #NLP #MongoDB</i>
+    </td>
+    <td width="50%" valign="top">
+      <b>📃 1-Page Compact Resume Builder</b><br>
+      A resume building tool geared towards crafting highly compressed, 1-page compact, ATS-friendly PDFs. Uses advanced styling constraints to avoid multi-page overflow elements.<br><br>
+      <i>#HTML #CSS #JavaScript #PDF-Gen</i>
+    </td>
+  </tr>
+</table>
 
----
-
-### 🎯 Currently Leveling Up
-
-🔥 **Advanced Data Structures & Algorithms (DSA)**
-🔥 **System Design & Cloud Integrations**
-🔥 **Advanced Backend Architecture**
-
----
-
-### 🐍 Contribution Flow
-
-<p align="center">
-  <!-- Provide instructions below on how to set up the snake! -->
-  <img src="https://githubusercontent.com/shruthinaluvala/shruthinaluvala/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
-</p>
-
-*(Psst: To make the snake actually move, we just need to add a quick 1-minute GitHub Action script to your repository. Let me know if you want the code for it!)*
+*(Feel free to edit the projects above to perfectly match the screenshot you intended to attach!)*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shruthinaluvala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=A970FF&title_color=A970FF" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruthinaluvala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=A970FF" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=shruthinaluvala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruthinaluvala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" width="48%">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruthinaluvala&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="100%">
 </p>
 
 ---
 
-<p align="center">💜 <b>Code. Create. Elevate.</b></p>
-<p align="center">⭐ If this profile inspired you, star a repo!</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
+<p align="center">⭐ <b>If you found my projects helpful, consider giving them a star!</b> ⭐</p>
