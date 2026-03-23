@@ -67,26 +67,47 @@
 
 ---
 
-### 🚀 Featured Projects
-
+### 🚀 What I've Been Building
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <b>🧠 AI Resume Matcher & ATS Analyzer</b><br>
-      An intelligent application that analyzes user resumes against job descriptions to generate an ATS score, identify missing skills, and suggest actionable ways to improve the match rate using NLP. <br><br>
-      <i>#React #NodeJS #NLP #MongoDB</i>
+      <b>🎓 EduAI Platform</b><br>
+      A complete full-stack educational application separated into an independent <b>Java</b> backend (`eduai-backend`) and an interactive <b>JavaScript</b> frontend (`eduai-frontend`).<br><br>
+      <i>#Java #JavaScript #FullStack #EduTech</i>
     </td>
     <td width="50%" valign="top">
-      <b>📃 1-Page Compact Resume Builder</b><br>
-      A resume building tool geared towards crafting highly compressed, 1-page compact, ATS-friendly PDFs. Uses advanced styling constraints to avoid multi-page overflow elements.<br><br>
-      <i>#HTML #CSS #JavaScript #PDF-Gen</i>
+      <b>🧠 AI Resume Matcher</b><br>
+      An intelligent application that analyzes user resumes against job descriptions to provide match scoring and actionable skills insights.<br><br>
+      <i>#JavaScript #AI #ResumeParsing</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🛒 MiniStore E-Commerce</b><br>
+      A custom e-commerce architecture structured with a lightweight <b>JavaScript</b> client interface and a highly optimized <b>C++</b> backend system.<br><br>
+      <i>#JavaScript #C++ #Ecommerce #Backend</i>
+    </td>
+    <td width="50%" valign="top">
+      <b>🚘 Vehicle Number Plate Detection (ANPR)</b><br>
+      A computer vision and machine learning pipeline developed in Jupyter Notebooks to automatically detect and recognize vehicle license plates.<br><br>
+      <i>#Python #ComputerVision #MachineLearning</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤖 Generative AI Chatbot</b><br>
+      A Python-based project focusing on creating a responsive and intelligent generative conversational agent from scratch.<br><br>
+      <i>#Python #GenerativeAI #NLP</i>
+    </td>
+    <td width="50%" valign="top">
+      <b>📊 Student Grade Tracker</b><br>
+      A foundational logic application built using core Data Structures and Algorithms including arrays, methods, and conditionals.<br><br>
+      <i>#DSA #Algorithms #CoreLogic</i>
     </td>
   </tr>
 </table>
-
-*(Feel free to edit the projects above to perfectly match the screenshot you intended to attach!)*
-
 ---
+
 
 ### 📊 GitHub Stats
 
